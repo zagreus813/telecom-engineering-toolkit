@@ -1,0 +1,16 @@
+# Packet captures (raw & compressed)
+*.pcap
+*.pcapng
+*.cap
+*.dmp
+*.pcap.gz
+*.pcapng.gz
+*.cap.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+
